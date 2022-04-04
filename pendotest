@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+     <title>JP's wfx test site</title>
+
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/magnific-popup.css">
+     <link rel="stylesheet" href="css/font-awesome.min.css">
+
+     <!-- MAIN CSS -->
+     <link rel="stylesheet" href="css/templatemo-style.css">
+</head>
+<body>
+
+     <!-- PRE LOADER -->
+     <section class="preloader">
+          <div class="spinner">
+               <span class="spinner-rotate"></span>
+          </div>
+     </section>
+     
+     <section id="contact" data-stellar-background-ratio="0.5">
+          <div class="container">
+          <iframe scrolling="no" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width: 610px; height: 457px; border-radius: 4px; " src="//whatfix.com/avery_servicenow/deck.html?closeable=false&true=undefined&entId=ff06e770-e330-11eb-8b9e-2a8342861064#!/bc636080-8e50-11ec-9f1a-000d3a578a9c/" ></iframe>
+          <iframe scrolling="no" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width: 610px; height: 457px; border-radius: 4px; " src="//whatfix.com/103358a0-c48f-11eb-b133-32b5f385aed9/deck.html?closeable=false&true=undefined&entId=103358a0-c48f-11eb-b133-32b5f385aed9#!/1d4a21f0-9bbb-11ec-ad6e-000d3a5780c8/" ></iframe>
+          </div>
+     </section>
+
+     <!-- HOME -->
+     <section id="home" data-stellar-background-ratio="0.5">
+          <div class="overlay"></div>
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-6 col-sm-12">
+                         <div class="home-info">
+                              <h1>Hello there.</h1>
+                              <a href="#about" class="btn section-btn smoothScroll">yeeeehawwwww</a>
+                              <span>
+                                   <h3>This is just a stupid test site</h3>
+                              </span>
+                         </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-12">
+                         <div class="home-video">
+                              <div class="embed-responsive embed-responsive-16by9">
+                                  <iframe src="https://player.vimeo.com/video/148751763?h=1e9ea2a314" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                              </div>
+                         </div>
+                    </div>
+                    
+               </div>
+          </div>
+     </section>
+
+
+     <!-- ABOUT -->
+     <section id="about" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-5 col-sm-6">
+                         <div class="about-info">
+                              <div class="section-title">
+                                   <h2>This is Reginald</h2>
+                                   <span class="line-bar">...</span>
+                              </div>
+                              <p><b>He is a concept created by you while reading this.</b></p>
+                              <p><b>When you stop, Reginald ceases to exist</b></p>
+                              <p><b>Your attention is the thin barrier between him and the Void</b></p>
+                              <p><b>"I'm scared", says Reginald.</b></p>
+                         </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                         <div class="about-image">
+                              <img src="images/about-image.jpg" class="img-responsive" alt="">
+                         </div>
+                    </div>
+                    
+               </div>
+          </div>
+     </section>
+
+
+     <!-- CONTACT -->
+     <section id="contact" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-4 col-sm-4">
+                         <div class="section-title">
+                              <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reject humanity<br>Back to Monke <a href="https://t.co/XkvAv2OX3J">pic.twitter.com/XkvAv2OX3J</a></p>&mdash; S J Prasad (@JahnaviPrasadS) <a href="https://twitter.com/JahnaviPrasadS/status/1366751774338506752?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                         </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                         <div class="section-title">
+                              <blockquote class="twitter-tweet"><p lang="tl" dir="ltr">Hahaha … ?1</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1469356039694864384?ref_src=twsrc%5Etfw">December 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                         </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                         <div class="section-title">
+                              <blockquote class="twitter-tweet"><p lang="und" dir="ltr">f</p>&mdash; Lady Gaga (@ladygaga) <a href="https://twitter.com/ladygaga/status/1165422733745721344?ref_src=twsrc%5Etfw">August 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                         </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                         <div class="section-title">
+                              <blockquote class="twitter-tweet"><p lang="en" dir="ltr">[Y]ou [O]nly [L]ive [O]nce</p>&mdash; Kylie Jenner (@KylieJenner) <a href="https://twitter.com/KylieJenner/status/151492182187061249?ref_src=twsrc%5Etfw">December 27, 2011</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                         </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                         <div class="section-title">
+                              <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Whats going on with mycareer</p>&mdash; Cher (@cher) <a href="https://twitter.com/cher/status/236855826340532224?ref_src=twsrc%5Etfw">August 18, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                         </div>
+                    </div>
+               </div>
+     </section>
+   
+     <!-- SCRIPTS -->
+     <script src="js/jquery.js"></script>
+     <script src="js/bootstrap.min.js"></script>
+     <script src="js/jquery.stellar.min.js"></script>
+     <script src="js/jquery.magnific-popup.min.js"></script>
+     <script src="js/smoothscroll.js"></script>
+     <script src="js/custom.js"></script>
+     <script>
+(function(apiKey){
+    (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=o._q||[];
+    v=['initialize','identify','updateOptions','pageLoad','track'];for(w=0,x=v.length;w<x;++w)(function(m){
+        o[m]=o[m]||function(){o._q[m===v[0]?'unshift':'push']([m].concat([].slice.call(arguments,0)));};})(v[w]);
+        y=e.createElement(n);y.async=!0;y.src='https://cdn.eu.pendo.io/agent/static/'+apiKey+'/pendo.js';
+        z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
+
+        // Call this whenever information about your visitors becomes available
+        // Please use Strings, Numbers, or Bools for value types.
+        pendo.initialize({
+            visitor: {
+                id: 'JP_PendoTest',
+                firstName: 'JP',
+                lastName: 'Yeehaw',
+                email: 'jp@test.com',
+                role:  'Admin'
+            },
+
+            account: {
+                id:           'Account_PendoTest',
+                name: 'Name_Account_PendoTest'
+            }
+        });
+})('ccbda273-cff5-4d45-49d0-661d3fd550a1');
+</script>
+</body>
+</html>
